@@ -1,8 +1,8 @@
-<img align="center" width="1000" alt="Coding" src="https://media.tenor.com/pqR5KeoAbGsAAAAd/surprised-spongebob.gif">
+<img align="center" width="1000" height="200" alt="Coding" src="https://media.tenor.com/pqR5KeoAbGsAAAAd/surprised-spongebob.gif">
 <!-- ![MasterHead]() -->
 <h1 align="center">Hi 👋, I'm Ali Al-qrinawi</h1>
 <h3 align="center">Website programmer and developer</h3>
-<img align="right" alt="Coding" width="400" height="200" src="https://media.tenor.com/ElWud0zqyJEAAAAM/we-did-it-we-saved-the-city.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ElWud0zqyJEAAAAM/we-did-it-we-saved-the-city.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alialqrinawi&label=Profile%20views&color=0e75b6&style=flat" alt="alialqrinawi" /> </p>
 
