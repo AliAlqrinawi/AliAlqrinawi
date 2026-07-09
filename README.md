@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=alialqrinawi&label=Profile%20views&color=0e75b6&style=flat" alt="alialqrinawi" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -109,16 +118,30 @@ Senior Laravel Developer with **5+ years of experience** designing and building 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alialqrinawi&show_icons=true&locale=en&cache_seconds=86400" alt="github stats" />
+  <a href="https://github.com/alialqrinawi?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View_All-181717?style=for-the-badge&logo=github&logoColor=white" alt="repositories" />
+  </a>
+  <a href="https://github.com/alialqrinawi">
+    <img src="https://img.shields.io/github/followers/alialqrinawi?style=for-the-badge&logo=github&logoColor=white&color=181717&labelColor=181717" alt="followers" />
+  </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alialqrinawi&show_icons=true&locale=en&layout=compact&cache_seconds=86400" alt="top languages" />
-</p>
+<!--
+GitHub Stats cards — the free public instance (github-readme-stats.vercel.app)
+is rate-limited by the GitHub API and often shows broken images.
+To use them reliably:
+  1. Fork https://github.com/anuraghazra/github-readme-stats
+  2. Deploy your fork on Vercel
+  3. Add a GitHub Personal Access Token as env var PAT_1
+  4. Replace the domain below with your own, then uncomment.
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=alialqrinawi" alt="streak stats" />
+  <img src="https://YOUR-INSTANCE.vercel.app/api?username=alialqrinawi&show_icons=true&locale=en" alt="github stats" />
 </p>
+<p align="left">
+  <img src="https://YOUR-INSTANCE.vercel.app/api/top-langs?username=alialqrinawi&layout=compact&locale=en" alt="top languages" />
+</p>
+-->
