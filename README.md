@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
@@ -22,7 +23,7 @@ Senior Laravel Developer with **5+ years of experience** designing and building 
 
 - 🔭 Currently **Full-Stack Lead Developer @ nzrh** — leading the dev team from planning to deployment
 - 🌱 Always learning **modern backend practices, system architecture & scalability**
-- 💬 Ask me about **PHP, Laravel, RESTful APIs, MySQL, jQuery & AJAX**
+- 💬 Ask me about **PHP, Laravel, RESTful APIs, MySQL, PostgreSQL, jQuery & AJAX**
 - 🎓 **Software and Databases**, Al-Azhar University (2019–2021) — Graduated with a **91% GPA**
 - 📫 Reach me at **alialqrinawi2@gmail.com** | 📱 +970 59-414-8741
 - ⚡ Fun fact: **I am funny**
@@ -82,11 +83,12 @@ Senior Laravel Developer with **5+ years of experience** designing and building 
 **Databases**
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
-`MySQL` · `Firebase` · `SQLite` · `Database Design & Query Optimization`
+`MySQL` · `PostgreSQL` · `Firebase` · `SQLite` · `Database Design & Query Optimization`
 
 **Tools & Infrastructure**
 <p align="left">
