@@ -28,7 +28,7 @@ Senior Full-Stack Developer with **5+ years of experience**, built on a strong *
 - 🤖 I work daily with **AI-assisted development** tools (Cursor, Claude Code)
 - 💬 Ask me about **PHP, Laravel, REST APIs, integrations, webhooks, queues, MySQL, PostgreSQL & Redis**
 - 🎓 **Software and Databases**, Al-Azhar University (2019–2021) — Graduated with a **91% GPA**
-- 📱 WhatsApp: **wa.me/970594148741** | 📫 **alialqrinawi2@gmail.com**
+- 📱 WhatsApp: **+970594148741** | 📫 **alialqrinawi2@gmail.com**
 - ⚡ Fun fact: **I am funny**
 
 ---
