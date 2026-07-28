@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Al-qrinawi</h1>
-<h3 align="center">Senior Web Developer • Laravel & Backend Architecture</h3>
+<h3 align="center">Senior Full-Stack Developer • Laravel Backend & Integrations</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alialqrinawi&label=Profile%20views&color=0e75b6&style=flat" alt="alialqrinawi" />
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
@@ -19,13 +20,15 @@
 
 ### 👨‍💻 About Me
 
-Senior Laravel Developer with **5+ years of experience** designing and building scalable web applications and high-performance backend systems. Specialized in **API architecture, database optimization, and system design**, with a strong focus on clean, maintainable code. Experienced in leading development efforts, collaborating with cross-functional teams, and delivering reliable solutions that align with real business needs.
+Senior Full-Stack Developer with **5+ years of experience**, built on a strong **Laravel** backend foundation and complemented by modern **React (Vite)** frontend development. Specialized in **REST API architecture, third-party integrations, webhooks, and queue-based systems**, with a strong focus on database optimization and clean, maintainable code. Experienced in leading development efforts, collaborating with cross-functional teams, and delivering reliable solutions that align with real business needs.
 
 - 🔭 Currently **Full-Stack Lead Developer @ nzrh** — leading the dev team from planning to deployment
+- 🔌 I build **integrations** for a living — payment gateways, messaging, shipping & more, using **REST APIs, webhooks, OAuth & queues**
 - 🌱 Always learning **modern backend practices, system architecture & scalability**
-- 💬 Ask me about **PHP, Laravel, RESTful APIs, MySQL, PostgreSQL, jQuery & AJAX**
+- 🤖 I work daily with **AI-assisted development** tools (Cursor, Claude Code)
+- 💬 Ask me about **PHP, Laravel, REST APIs, integrations, webhooks, queues, MySQL, PostgreSQL & Redis**
 - 🎓 **Software and Databases**, Al-Azhar University (2019–2021) — Graduated with a **91% GPA**
-- 📫 Reach me at **alialqrinawi2@gmail.com** | 📱 +970 59-414-8741
+- 📱 WhatsApp: **wa.me/970594148741** | 📫 **alialqrinawi2@gmail.com**
 - ⚡ Fun fact: **I am funny**
 
 ---
@@ -66,7 +69,7 @@ Senior Laravel Developer with **5+ years of experience** designing and building 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
-`PHP` · `Laravel` · `RESTful API Development` · `OOP` · `System Analysis` · `Testing & Debugging`
+`PHP` · `Laravel` · `RESTful APIs` · `OOP` · `Webhooks` · `OAuth 2.0` · `Queue Systems (Jobs & Async)` · `System Analysis` · `Testing & Debugging`
 
 **Frontend**
 <p align="left">
@@ -84,11 +87,12 @@ Senior Laravel Developer with **5+ years of experience** designing and building 
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
 
-`MySQL` · `PostgreSQL` · `Firebase` · `SQLite` · `Database Design & Query Optimization`
+`MySQL` · `PostgreSQL` · `Redis & Caching` · `Firebase` · `SQLite` · `Database Design & Query Optimization`
 
 **Tools & Infrastructure**
 <p align="left">
@@ -98,9 +102,9 @@ Senior Laravel Developer with **5+ years of experience** designing and building 
 
 `Git (GitHub, GitLab, Bitbucket)` · `Postman` · `Deployment & Server Management` · `WHM / cPanel` · `Hostinger, GoDaddy, IONOS` · `Jira` · `Trello`
 
-**AI Tools**
+**AI-Assisted Development**
 
-`Claude & Claude Code` · `ChatGPT` · `Cursor` · `GitHub Copilot`
+`Cursor (Agentic AI)` · `Claude & Claude Code` · `GitHub Copilot` · `ChatGPT`
 
 **Leadership**
 
