@@ -28,7 +28,7 @@ Senior Full-Stack Developer with **5+ years of experience**, built on a strong *
 - 🤖 I work daily with **AI-assisted development** tools (Cursor, Claude Code)
 - 💬 Ask me about **PHP, Laravel, REST APIs, integrations, webhooks, queues, MySQL, PostgreSQL & Redis**
 - 🎓 **Software and Databases**, Al-Azhar University (2019–2021) — Graduated with a **91% GPA**
-- 📱 WhatsApp: **+970594148741** | 📫 **alialqrinawi2@gmail.com**
+- 📱 WhatsApp: **wa.me/970594148741** | 📫 **alialqrinawi2@gmail.com**
 - ⚡ Fun fact: **I am funny**
 
 ---
@@ -55,7 +55,7 @@ Senior Full-Stack Developer with **5+ years of experience**, built on a strong *
 | **Turbo** | Ride-hailing platform in Libya — backend features & APIs supporting transportation operations |
 | **EZGO** | Multi-service transportation platform — ride-hailing, tow truck, roadside assistance & car rental in one app |
 | **Cattle** | Digital investment platform connecting cattle farm owners with investors, with share purchasing & daily returns |
-| **Halaw Kakaw** | Korean snack e-commerce platform (Kuwait & Iraq) — store APIs, delivery workflow, driver admin dashboard & mobile app |
+| **Halaw Kakaw** | Multi-tenant Korean snack e-commerce platform (Kuwait & Iraq) — serving multiple stores, with store APIs, delivery workflow, order management, driver admin dashboard & mobile app |
 | **EDKD** | Digital healthcare monitoring platform for government health authorities — AI-powered APIs analyzing medical test results |
 | **G-Tack** | Gas & water delivery management system across the Gaza Strip — order processing, delivery ops & supplier coordination |
 
@@ -69,7 +69,7 @@ Senior Full-Stack Developer with **5+ years of experience**, built on a strong *
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
-`PHP` · `Laravel` · `RESTful APIs` · `OOP` · `Webhooks` · `OAuth 2.0` · `Queue Systems (Jobs & Async)` · `System Analysis` · `Testing & Debugging`
+`PHP` · `Laravel` · `RESTful APIs` · `OOP` · `Webhooks` · `OAuth 2.0` · `Queue Systems (Jobs & Async)` · `Multi-Tenant SaaS` · `System Analysis` · `Testing & Debugging`
 
 **Frontend**
 <p align="left">
